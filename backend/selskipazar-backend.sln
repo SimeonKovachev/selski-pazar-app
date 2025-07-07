@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelskiPazar.API", "SelskiPazar.API\SelskiPazar.API.csproj", "{E111FF26-C647-4FD0-B661-01B77DC251BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelskiPazar.Domain", "SelskiPazar.Domain\SelskiPazar.Domain.csproj", "{9327912A-E87A-410D-91C8-7EA721630AF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelskiPazar.Application", "SelskiPazar.Application\SelskiPazar.Application.csproj", "{B21FB3B6-C61B-430D-8636-53BA6D9D4F21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelskiPazar.Infrastructure", "SelskiPazar.Infrastructure\SelskiPazar.Infrastructure.csproj", "{3F5181D4-76D9-48EE-BD67-EF8CD3D32A14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelskiPazar.Shared", "SelskiPazar.Shared\SelskiPazar.Shared.csproj", "{12129A5B-6702-4A85-83FC-59388EEA471A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E111FF26-C647-4FD0-B661-01B77DC251BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E111FF26-C647-4FD0-B661-01B77DC251BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E111FF26-C647-4FD0-B661-01B77DC251BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E111FF26-C647-4FD0-B661-01B77DC251BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9327912A-E87A-410D-91C8-7EA721630AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9327912A-E87A-410D-91C8-7EA721630AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9327912A-E87A-410D-91C8-7EA721630AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9327912A-E87A-410D-91C8-7EA721630AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B21FB3B6-C61B-430D-8636-53BA6D9D4F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21FB3B6-C61B-430D-8636-53BA6D9D4F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21FB3B6-C61B-430D-8636-53BA6D9D4F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21FB3B6-C61B-430D-8636-53BA6D9D4F21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F5181D4-76D9-48EE-BD67-EF8CD3D32A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5181D4-76D9-48EE-BD67-EF8CD3D32A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5181D4-76D9-48EE-BD67-EF8CD3D32A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5181D4-76D9-48EE-BD67-EF8CD3D32A14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12129A5B-6702-4A85-83FC-59388EEA471A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12129A5B-6702-4A85-83FC-59388EEA471A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12129A5B-6702-4A85-83FC-59388EEA471A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12129A5B-6702-4A85-83FC-59388EEA471A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E95A6119-5F3B-4DA0-B11F-29EDF0083B5A}
+	EndGlobalSection
+EndGlobal
